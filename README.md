@@ -20,6 +20,9 @@ This project provides a comprehensive analysis and comparison of several machine
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Project Report](#project-report)
+- [Source Codes](#source-codes)
+
 
 ## Introduction
 
@@ -112,4 +115,13 @@ jupyter notebook "A Comparative Analysis of Machine Learning Models.ipynb"
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-<b> <i> Thank you for reading! </i> </b>
+## Project Report
+
+The detailed project report can be found <a href="https://github.com/saky-semicolon/SVM-Logistic-Regression-k-NN-K-Means-Clustering-and-PCA/blob/main/Project%20Report.pdf"><b><i><u>here</u></i></b></a>.
+
+## Source Codes
+
+The source codes for the models and analysis can be found <a href="https://github.com/saky-semicolon/SVM-Logistic-Regression-k-NN-K-Means-Clustering-and-PCA/blob/main/A%20Comparative%20Analysis%20of%20Machine%20Learning%20Models.ipynb"><b><i><u>here</u></i></b></a>.
+
+
+<b> <i> Thank you for reading! @ Saky </i> </b>
